@@ -1,0 +1,2 @@
+# Adversarial-Attacks
+Implemented adversarial attacks in Python on pretrained audio, text, and image models using techniques such as FGSM, PGD, Carlini &amp; Wagner (C&amp;W), and targeted word-replacement; measured attack success rates and analyzed model vulnerabilities to guide robustness improvements.
